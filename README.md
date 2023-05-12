@@ -11,4 +11,6 @@ Ou seja são funções especificadas e entregue ao usuário final.
 
 ![image](https://github.com/aevilesaguiar/apf-analise-de-pontos-de-funcao/assets/52088444/813d229c-659c-4369-8dec-765d182269ec)
 
+**arquivos lógicos internos os Alias
+
 ![image](https://github.com/aevilesaguiar/apf-analise-de-pontos-de-funcao/assets/52088444/15a61050-80d8-40d0-a187-7547f4e0022f)
